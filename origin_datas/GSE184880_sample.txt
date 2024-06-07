@@ -1,0 +1,13 @@
+Sample_title	Sample_geo_accession	tumor_stage
+Normal ovarian tissue1	GSM5599220	 
+Normal ovarian tissue2	GSM5599221	 
+Normal ovarian tissue3	GSM5599222	 
+Normal ovarian tissue4	GSM5599223	 
+Normal ovarian tissue5	GSM5599224	 
+Cancer_HGSOC1	GSM5599225	IIIB
+Cancer_HGSOC2	GSM5599226	IIB
+Cancer_HGSOC3	GSM5599227	IC2
+Cancer_HGSOC4	GSM5599228	IC2
+Cancer_HGSOC5	GSM5599229	IIB
+Cancer_HGSOC6	GSM5599230	IIIC
+Cancer_HGSOC7	GSM5599231	IC2
